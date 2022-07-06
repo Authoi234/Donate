@@ -71,5 +71,19 @@ body{
 
 /* Third Section */
 .card-style{
-    
+    background-color: rgb(222, 255, 255);
+    padding: 10px;
+}
+.icon-width{
+    width: 20%;
+}
+.btn-style{
+    background-color: tomato;
+    padding: 8px 8px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+.margin{
+    margin: 0 30px;
 }
