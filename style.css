@@ -1,0 +1,75 @@
+body{
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+/* First Section */
+.sec-bg{
+    background-image: url(./images/donation5.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 92%;
+    align-items: center;
+    margin-left: 64px;
+}
+.text-center{
+    text-align: center;
+    padding-top: 50px;
+}
+.h1-size{
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+}
+.white-color{
+    color: white;
+}
+.button-style{
+    color: white;
+    background-color: orange;
+    padding: 15px 15px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+/* Second Section */
+.h1-price{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+.text-center-all-items{
+    text-align: center;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+}
+.margin-bottom{
+    margin-bottom: 30px;
+}
+.donation-tk{
+    color: rgb(102, 102, 102);
+    margin-left: 80px;
+    padding-right: 50px;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.tk-style{
+    margin-top: 30px;
+    border: 2px solid red;
+    font-size: 30px;
+    color: red;
+    padding: 20px 15px;
+    background-color: rgb(236, 217, 217);
+}
+#small-color{
+    color: gray;
+    padding-left: 48%;
+}
+
+/* Third Section */
+.card-style{
+    
+}
