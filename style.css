@@ -71,7 +71,6 @@ body{
 
 /* Third Section */
 .card-style{
-    background-color: rgb(222, 255, 255);
     padding: 10px;
 }
 .icon-width{
@@ -86,4 +85,25 @@ body{
 }
 .margin{
     margin: 0 30px;
+}
+.bg-color-1{
+    background-color: rgb(222, 255, 255);
+}
+.bg-color-2{
+    background-color: rgb(252, 230, 234);
+}
+.bg-color-3{
+    background-color: beige;
+}
+.anchor-style{
+    text-decoration: none;
+    color: white;
+}
+.m-bottom{
+    margin-bottom: 80px;
+}
+
+/* Fourth Section */
+.flexible-div{
+    display: flex;
 }
