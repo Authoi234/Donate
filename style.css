@@ -173,6 +173,38 @@ footer{
     color: white;
     font-size: 18px;
 }
-.m-b-sec{
-    margin-bottom: 100px;
+.pera-style{
+    font-size: 20px;
+    color: rgb(124, 124, 124);
+}
+.input-style{
+    color: rgb(86, 86, 86);
+    background-color: rgb(215, 215, 215);
+    font-size: 15px;
+    width: 40%;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    height: 40px;
+    padding-left: 15px;
+    outline: none;
+}
+.sec-button-style{
+    color: white;
+    background-color: red;
+    font-size: 15px;
+    padding: 11px 20px;
+    border: none;
+}
+.d-flex-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-bg{
+    background-color: #fffdd0;
+    margin: 50px 0 100px 0;
+    padding: 60px 0;
+    text-align: center;
+    width: 50%;
+    margin-left: 348px;
 }
